@@ -1,0 +1,26 @@
+h1{
+    font-weight: $weight-bold;
+    font-size: 3.2rem;
+    line-height: 6rem;    
+}
+
+h3{
+    font-weight: $weight-bold;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+
+h4{
+    font-weight: $weight-semibold;
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+
+.latest-posts{
+    margin-bottom: 80px;
+    text-decoration: underline;
+}
+
+.green-title{
+    color: $primary;
+}

@@ -1,0 +1,19 @@
+.post-template{
+    .post-header{
+        h1{
+            border-bottom: 2px solid $primary;
+        }
+        margin-bottom: 50px;
+    }
+    p{
+        text-align: justify;
+    }
+    .post-aside{
+        padding: 12px 30px;
+        border-radius: 12px;
+        background-color: $white-ter;
+        .post-aside-links{
+            color: $primary;
+        }
+    }
+}
