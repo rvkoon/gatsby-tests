@@ -10,7 +10,7 @@ const PostPreview = ({
 }) => {
     return(
         <div className="column is-4 post-preview">
-              <Img fluid={img} />
+              <Img fluid={img} className="post-preview-image"/>
               <Link to={slug}>
                 <h4 className="green-title">{title}</h4>
               </Link>

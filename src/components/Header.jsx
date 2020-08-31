@@ -19,8 +19,10 @@ const Header = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="column">
-                        Links here
+                    <div className="column">
+                        <div className="is-pulled-right">
+                            <Link to="/" className="text-is-primary">Home</Link>
+                        </div>
                     </div>
                 </div>
             </div>

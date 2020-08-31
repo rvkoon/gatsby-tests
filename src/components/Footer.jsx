@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="container">
                 <div className="columns">
                     <div className="column">
-                        <p>Crafted with <span role="img" aria-label="heart logo">💚</span> by RvKoon</p>
+                        <p>Crafted with <span role="img" aria-label="heart logo">🤍</span> by RvKoon</p>
                     </div>
                 </div>
             </div>

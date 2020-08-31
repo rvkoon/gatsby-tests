@@ -17,7 +17,7 @@ const Post = ({data}) => {
                     </div>
                     <div dangerouslySetInnerHTML={{ __html: post.html }} />
                 </div>
-                <div className="column is-4 post-aside">
+                <div className="column is-offset-1 is-3 post-aside">
                     <h4>Read other articles</h4>
                     {allPosts.map(({node}) => {
                         if(node.frontmatter.published){

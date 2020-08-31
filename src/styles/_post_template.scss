@@ -9,9 +9,10 @@
         text-align: justify;
     }
     .post-aside{
-        padding: 12px 30px;
+        padding: 20px 30px 30px 30px;
         border-radius: 12px;
         background-color: $white-ter;
+        align-self:flex-start;
         .post-aside-links{
             color: $primary;
         }

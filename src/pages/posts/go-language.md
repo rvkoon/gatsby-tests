@@ -1,15 +1,15 @@
 ---
-title: "Web components"
-date: "2020-08-29"
-featuredImage: ../../images/web-components.jpg
+title: "GO language"
+date: "2020-08-31"
+featuredImage: ../../images/golang.jpg
 author: "Rvkoon"
 published: true
 ---
 
-<img src="../../images/web-components.jpg"/>
+<img src="../../images/golang.jpg"/>
 <br>
 
-#### Web components => what, when, why ?
+#### Should you pick up GOlang over python ?
 
 <div style="text-align: justify">
 <br>

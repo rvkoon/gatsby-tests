@@ -17,10 +17,14 @@ h4{
 }
 
 .latest-posts{
-    margin-bottom: 80px;
+    margin-bottom: 50px;
     text-decoration: underline;
 }
 
 .green-title{
+    color: $primary;
+}
+
+.text-is-primary{
     color: $primary;
 }
